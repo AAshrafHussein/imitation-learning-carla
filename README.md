@@ -37,5 +37,5 @@ $ python ./PythonClient/racetrack/client_control.py -q Low -rep mpc_rt01 -e 1 -s
 ```sh
 $ python ./PythonClient/racetrack/train_on_depth.py
 ```
-to be done will be done later...
+more info will be added later...
 for more info contact me @ mohamedgad1997@gmail.com
